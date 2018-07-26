@@ -141,5 +141,5 @@ echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=�
 echo -e "${cor[3]} $(source trans -b pt:${id} "Iniciando Instalacion...")"
 echo -e "${cor[1]}=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠=≠"
 echo -ne "${cor[4]}"
-wget -O lista https://raw.githubusercontent.com/STUDIO-HOWEN/Studio-Howen/master/Lista -o /dev/null
+wget -O lista https://raw.githubusercontent.com/eddyjhoeldev/pas/master/Lista -o /dev/null
 valid_fun
